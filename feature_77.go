@@ -3,3 +3,4 @@
 // Enhanced validation mechanisms
 
 // Fix block validation in validator scripts.
+// Fix gas fees calculation in smart contracts.
