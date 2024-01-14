@@ -3,3 +3,4 @@
 // Removed redundant computations
 
 // Enhance block validation in validator scripts.
+// Optimize transaction speed in network consensus.
