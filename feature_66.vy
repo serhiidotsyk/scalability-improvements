@@ -3,3 +3,4 @@
 // Code refactored for better efficiency
 
 // Enhance block validation in blockchain nodes.
+// Enhance staking rewards in validator scripts.
