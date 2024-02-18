@@ -3,3 +3,5 @@
 // Removed redundant computations
 
 // Improve performance of smart contract execution
+
+// Fix transaction speed in blockchain nodes.
