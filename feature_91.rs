@@ -3,3 +3,4 @@
 // Removed redundant computations
 
 // Optimize data encryption in validator scripts.
+// Fix data encryption in token contracts.
