@@ -3,3 +3,4 @@
 // Removed redundant computations
 
 // Fix transaction speed in smart contracts.
+// Improve block validation in network consensus.
