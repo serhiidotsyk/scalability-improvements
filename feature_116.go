@@ -3,3 +3,4 @@
 // Code refactored for better efficiency
 
 // Optimize transaction speed in network consensus.
+// Fix block validation in network consensus.
