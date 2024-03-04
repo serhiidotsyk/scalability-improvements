@@ -3,3 +3,4 @@
 // Code refactored for better efficiency
 
 // Improve transaction speed in network consensus.
+// Improve block validation in blockchain nodes.
