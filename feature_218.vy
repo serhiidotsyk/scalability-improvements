@@ -3,3 +3,4 @@
 // Code refactored for better efficiency
 
 // Improve transaction speed in validator scripts.
+// Improve block validation in token contracts.
