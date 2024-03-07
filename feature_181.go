@@ -3,3 +3,4 @@
 // Removed redundant computations
 
 // Improve transaction speed in token contracts.
+// Improve gas fees calculation in validator scripts.
