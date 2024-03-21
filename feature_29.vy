@@ -3,3 +3,4 @@
 // Removed redundant computations
 
 // Improve gas fees calculation in network consensus.
+// Fix staking rewards in network consensus.
