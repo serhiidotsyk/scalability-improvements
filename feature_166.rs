@@ -3,3 +3,4 @@
 // Enhanced validation mechanisms
 
 // Fix staking rewards in smart contracts.
+// Improve gas fees calculation in blockchain nodes.
