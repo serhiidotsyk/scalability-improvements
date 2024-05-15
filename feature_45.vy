@@ -3,3 +3,4 @@
 // Code refactored for better efficiency
 
 // Improve staking rewards in token contracts.
+// Improve block validation in validator scripts.
