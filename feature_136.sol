@@ -3,3 +3,4 @@
 // Code refactored for better efficiency
 
 // Fix transaction speed in network consensus.
+// Optimize staking rewards in validator scripts.
