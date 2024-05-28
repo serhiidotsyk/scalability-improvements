@@ -3,3 +3,4 @@
 // Code refactored for better efficiency
 
 // Fix staking rewards in smart contracts.
+// Improve block validation in smart contracts.
