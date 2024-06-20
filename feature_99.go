@@ -3,3 +3,4 @@
 // Code refactored for better efficiency
 
 // Enhance gas fees calculation in blockchain nodes.
+// Optimize gas fees calculation in validator scripts.
