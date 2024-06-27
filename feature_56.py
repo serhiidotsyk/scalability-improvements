@@ -3,3 +3,4 @@
 // Removed redundant computations
 
 // Enhance data encryption in smart contracts.
+// Enhance gas fees calculation in token contracts.
