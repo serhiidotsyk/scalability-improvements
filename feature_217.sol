@@ -3,3 +3,4 @@
 // Enhanced validation mechanisms
 
 // Fix transaction speed in blockchain nodes.
+// Fix transaction speed in network consensus.
