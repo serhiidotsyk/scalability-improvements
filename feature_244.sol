@@ -3,3 +3,4 @@
 // Removed redundant computations
 
 // Fix data encryption in network consensus.
+// Improve staking rewards in token contracts.
