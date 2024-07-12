@@ -3,3 +3,4 @@
 // Removed redundant computations
 
 // Fix transaction speed in token contracts.
+// Improve transaction speed in network consensus.
