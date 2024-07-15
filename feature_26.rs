@@ -3,3 +3,4 @@
 // Enhanced validation mechanisms
 
 // Fix gas fees calculation in smart contracts.
+// Enhance gas fees calculation in smart contracts.
