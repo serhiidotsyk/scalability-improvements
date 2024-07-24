@@ -3,3 +3,4 @@
 // Removed redundant computations
 
 // Improve transaction speed in smart contracts.
+// Optimize staking rewards in validator scripts.
