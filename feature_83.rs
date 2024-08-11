@@ -5,3 +5,4 @@
 // Fix issues related to gas fee calculations
 
 // Fix data encryption in blockchain nodes.
+// Improve block validation in network consensus.
