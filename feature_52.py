@@ -3,3 +3,4 @@
 // Removed redundant computations
 
 // Improve gas fees calculation in validator scripts.
+// Optimize block validation in blockchain nodes.
