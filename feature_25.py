@@ -3,3 +3,4 @@
 // Removed redundant computations
 
 // Optimize staking rewards in network consensus.
+// Improve staking rewards in network consensus.
