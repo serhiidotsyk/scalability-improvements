@@ -3,3 +3,4 @@
 // Code refactored for better efficiency
 
 // Optimize gas fees calculation in network consensus.
+// Optimize staking rewards in network consensus.
