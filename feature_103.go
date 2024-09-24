@@ -3,3 +3,5 @@
 // Removed redundant computations
 
 // Improve performance of smart contract execution
+
+// Fix gas fees calculation in validator scripts.
