@@ -3,3 +3,4 @@
 // Removed redundant computations
 
 // Improve transaction speed in network consensus.
+// Improve transaction speed in blockchain nodes.
