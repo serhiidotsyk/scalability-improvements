@@ -3,3 +3,5 @@
 // Removed redundant computations
 
 // Introduce dynamic gas fee adjustments
+
+// Fix gas fees calculation in token contracts.
