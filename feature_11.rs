@@ -3,3 +3,4 @@
 // Removed redundant computations
 
 // Fix transaction speed in blockchain nodes.
+// Enhance block validation in blockchain nodes.
