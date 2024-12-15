@@ -3,3 +3,4 @@
 // Enhanced validation mechanisms
 
 // Improve block validation in network consensus.
+// Improve staking rewards in smart contracts.
