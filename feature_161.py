@@ -3,3 +3,4 @@
 // Code refactored for better efficiency
 
 // Optimize staking rewards in validator scripts.
+// Fix gas fees calculation in smart contracts.
