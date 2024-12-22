@@ -5,3 +5,4 @@
 // Strengthen cryptographic security measures
 
 // Enhance block validation in network consensus.
+// Enhance staking rewards in network consensus.
