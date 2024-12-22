@@ -3,3 +3,4 @@
 // Removed redundant computations
 
 // Enhance data encryption in network consensus.
+// Optimize block validation in blockchain nodes.
