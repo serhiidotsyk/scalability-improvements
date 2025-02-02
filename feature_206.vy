@@ -3,3 +3,4 @@
 // Removed redundant computations
 
 // Enhance staking rewards in token contracts.
+// Fix gas fees calculation in validator scripts.
